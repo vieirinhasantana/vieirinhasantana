@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/vieirinhasantana/vieirinhasantana/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vieirinhasantana/vieirinhasantana/raw/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://github.com/vieirinhasantana">
