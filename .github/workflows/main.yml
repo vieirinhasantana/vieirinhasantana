@@ -10,7 +10,6 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
       - uses: Platane/snk@v2
         with:
           # github user name to read the contribution graph from (**required**)
