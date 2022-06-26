@@ -51,7 +51,7 @@
 ### Let's connect ? 🤝
 
 <p align="left">
-<a href="http://bit.ly/3OKQygT"><img src="https://img.shields.io/badge/-daniel-v-santana?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="http://bit.ly/3OKQygT"><img src="https://img.shields.io/badge/daniel-v-santana?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="http://bit.ly/3OJ65NY"><img src="https://img.shields.io/badge/daniel-santana?style=flat&logo=Stackoverflow&logoColor=white"/></a>
 <a href="http://bit.ly/3A3IkvY"><img src="https://img.shields.io/badge/-@sant1?style=flat&logo=medium&logoColor=white"/></a>
 <a href="mailto:vieirinhasantana@gmail.com"><img src="https://img.shields.io/badge/-vieirinhasantana@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
