@@ -8,11 +8,11 @@
 
 ### Languages & Tools 🛠
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white) ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin) ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown) ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=javascript)&nbsp;
 
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka) ![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka) ![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white) ![CircleCI](https://img.shields.io/badge/CircleCI-05122A?style=flat&logo=circleci&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white) ![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) ![Aws](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon) ![Gcp](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google)&nbsp;
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![IntelliJ](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=jetbrains) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white) ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
 
@@ -52,8 +52,8 @@
 
 <p align="left">
 <a href="http://bit.ly/3OKQygT"><img src="https://img.shields.io/badge/-daniel-v-santana?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="http://bit.ly/3OJ65NY"><img src="https://img.shields.io/badge/guifalourd-D16f37?style=flat&logo=Stackoverflow&logoColor=white"/></a>
-<a href="http://bit.ly/3A3IkvY"><img src="https://img.shields.io/badge/-@guillaume.falourd-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
+<a href="http://bit.ly/3OJ65NY"><img src="https://img.shields.io/badge/daniel-santana?style=flat&logo=Stackoverflow&logoColor=white"/></a>
+<a href="http://bit.ly/3A3IkvY"><img src="https://img.shields.io/badge/-@sant1?style=flat&logo=medium&logoColor=white"/></a>
 <a href="mailto:vieirinhasantana@gmail.com"><img src="https://img.shields.io/badge/-vieirinhasantana@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
