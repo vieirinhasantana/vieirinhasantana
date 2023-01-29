@@ -10,12 +10,10 @@ jobs:
   summary-cards:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-
-      - name: Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v3
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env: # default use ${{ secrets.SUMMARY_GITHUB_TOKEN }}, you should replace with your personal access token
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           
